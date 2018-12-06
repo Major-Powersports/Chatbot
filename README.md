@@ -10,6 +10,7 @@
 
 ## Facebook Messenger
 * [Messenger Settings](https://www.facebook.com/majorpowersports/settings/?tab=messenger_platform)
+* PowerBot 592580637840656
 ### Messenger Platform
 #### Response Method
 Responses are partially automated, with some support by people
