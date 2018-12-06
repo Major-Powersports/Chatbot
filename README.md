@@ -9,6 +9,7 @@
 * [CDK Partner Platform: Sales Domain](https://portal.online-test.cdkapps.eu/#/)
 
 ## Facebook Messenger
+* [Messenger Settings](https://www.facebook.com/majorpowersports/settings/?tab=messenger_platform)
 ### Messenger Platform
 #### Response Method
 Responses are partially automated, with some support by people
@@ -19,5 +20,5 @@ Responses are partially automated, with some support by people
 #### Messenger Link
 - [m.me/majorpowersports](m.me/majorpowersports)
 #### Advanced Messaging Features
-
-	
+* [Subscription Messaging (BETA)](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/#subscription_messaging)
+* Info About People	
