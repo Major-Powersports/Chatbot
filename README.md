@@ -25,6 +25,7 @@ Responses are partially automated, with some support by people
 * Info About People	
 #### Customer Chat Plugin
 Let people start a conversation on your website and continue in Messenger. 
+* [Customer Chat Plugin](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin)
 ```javascript
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
