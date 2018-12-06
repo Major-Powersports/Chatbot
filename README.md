@@ -23,3 +23,22 @@ Responses are partially automated, with some support by people
 #### Advanced Messaging Features
 * [Subscription Messaging (BETA)](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/#subscription_messaging)
 * Info About People	
+#### Customer Chat Plugin
+Let people start a conversation on your website and continue in Messenger. 
+```javascript
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="1526269314258118">
+</div>
+```
