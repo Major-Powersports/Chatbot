@@ -17,7 +17,7 @@ Responses are partially automated, with some support by people
 #### Whitelisted Domains
 - Third-party domains that are accessible in the Messenger webview for use with the Messenger Extensions SDK, and for Messenger plugins. https://www.majorpowersports.com/
 #### Messenger Link
-- m.me/majorpowersports
+- [m.me/majorpowersports](m.me/majorpowersports)
 #### Advanced Messaging Features
 
 	
