@@ -43,3 +43,8 @@ Let people start a conversation on your website and continue in Messenger.
   page_id="1526269314258118">
 </div>
 ```
+## PowerBot Agent
+The agent should perform the following tasks:
+* Inform customers about the hours of operation
+* Schedule service appointments for customers
+* Schedule sales appointments for customers
