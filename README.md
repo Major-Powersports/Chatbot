@@ -3,6 +3,7 @@
 ## Table of Content
 * [CDK Global](#cdk-global)
 * [Facebook Messenger](#facebook-messenger)
+* [PowerBot Agent](#powerbot-agent)
 
 ## CDK Global
 * [CDK Global Developers](https://www.cdkglobal.com/en-gb/partners/developers)
